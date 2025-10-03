@@ -1,0 +1,15 @@
+{
+  "appName": {"message": "WPlace Тёмная тема"},
+  "appDescription": {"message": "Принудительно устанавливает localStorage.theme в 'dark' при включении и в 'custom-winter' при выключении, с переключателем в всплывающем окне."},
+  "actionDefaultTitle": {"message": "Переключить тему (dark/custom-winter)"},
+  "popupTitle": {"message": "WPlace Dark Theme"},
+  "popupState": {"message": "Состояние:"},
+  "popupOn": {"message": "Вкл. (dark)"},
+  "popupOff": {"message": "Выкл. (custom-winter)"},
+  "popupHint": {"message": "Вкл.: устанавливает localStorage.theme = dark\nВыкл.: устанавливает custom-winter"},
+  "modalTitle": {"message": "WPlace Dark Theme"},
+  "modalBodyOn": {"message": "Тема установлена на <b>dark</b>.<br>Чтобы изменения применились, закройте эту вкладку и откройте сайт в <b>новой вкладке</b>."},
+  "modalBodyOff": {"message": "Тема возвращена к <b>значению по умолчанию</b>.<br>Чтобы изменения применились, закройте эту вкладку и откройте сайт в <b>новой вкладке</b>."},
+  "btnUnderstood": {"message": "Понятно"},
+  "btnOpenNewTab": {"message": "Открыть в новой вкладке"}
+}

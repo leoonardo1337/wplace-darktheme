@@ -1,0 +1,15 @@
+{
+  "appName": {"message": "WPlace 深色主题"},
+  "appDescription": {"message": "启用时将 localStorage.theme 设为 'dark'，禁用时设为 'custom-winter'，并提供弹窗切换。"},
+  "actionDefaultTitle": {"message": "切换主题 (dark/custom-winter)"},
+  "popupTitle": {"message": "WPlace Dark Theme"},
+  "popupState": {"message": "状态:"},
+  "popupOn": {"message": "已启用 (dark)"},
+  "popupOff": {"message": "已禁用 (custom-winter)"},
+  "popupHint": {"message": "启用：设置 localStorage.theme = dark\n禁用：设置为 custom-winter"},
+  "modalTitle": {"message": "WPlace Dark Theme"},
+  "modalBodyOn": {"message": "主题已设置为 <b>dark</b>。<br>要正确生效，请关闭此标签页并在<b>新标签页</b>中重新打开网站。"},
+  "modalBodyOff": {"message": "主题已恢复为<b>默认</b>。<br>要正确生效，请关闭此标签页并在<b>新标签页</b>中重新打开网站。"},
+  "btnUnderstood": {"message": "知道了"},
+  "btnOpenNewTab": {"message": "在新标签页打开"}
+}

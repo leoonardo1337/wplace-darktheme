@@ -1,0 +1,15 @@
+{
+  "appName": {"message": "WPlace ダークテーマ"},
+  "appDescription": {"message": "有効時に localStorage.theme を 'dark' に、無効時に 'custom-winter' に強制し、ポップアップで切り替えます。"},
+  "actionDefaultTitle": {"message": "テーマを切替 (dark/custom-winter)"},
+  "popupTitle": {"message": "WPlace Dark Theme"},
+  "popupState": {"message": "状態:"},
+  "popupOn": {"message": "オン (dark)"},
+  "popupOff": {"message": "オフ (custom-winter)"},
+  "popupHint": {"message": "オン: localStorage.theme = dark\nオフ: custom-winter を設定"},
+  "modalTitle": {"message": "WPlace Dark Theme"},
+  "modalBodyOn": {"message": "テーマを <b>dark</b> に設定しました。<br>正しく反映するには、このタブを閉じてサイトを<b>新しいタブ</b>で開いてください。"},
+  "modalBodyOff": {"message": "テーマは<b>既定</b>に戻りました。<br>正しく反映するには、このタブを閉じてサイトを<b>新しいタブ</b>で開いてください。"},
+  "btnUnderstood": {"message": "了解"},
+  "btnOpenNewTab": {"message": "新しいタブで開く"}
+}

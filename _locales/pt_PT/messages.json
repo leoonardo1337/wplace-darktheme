@@ -1,0 +1,15 @@
+{
+  "appName": {"message": "WPlace Tema Escuro"},
+  "appDescription": {"message": "Força localStorage.theme para 'dark' quando ligado e 'custom-winter' quando desligado, com alternância no pop-up."},
+  "actionDefaultTitle": {"message": "Alternar tema (dark/custom-winter)"},
+  "popupTitle": {"message": "WPlace Dark Theme"},
+  "popupState": {"message": "Estado:"},
+  "popupOn": {"message": "Ativado (dark)"},
+  "popupOff": {"message": "Desativado (custom-winter)"},
+  "popupHint": {"message": "Ativado: define localStorage.theme = dark\nDesativado: define para custom-winter"},
+  "modalTitle": {"message": "WPlace Dark Theme"},
+  "modalBodyOn": {"message": "O tema foi definido para <b>dark</b>.<br>Para aplicar corretamente, feche este separador e abra o site num <b>novo separador</b>."},
+  "modalBodyOff": {"message": "O tema voltou ao <b>predefinido</b>.<br>Para aplicar corretamente, feche este separador e abra o site num <b>novo separador</b>."},
+  "btnUnderstood": {"message": "Percebi"},
+  "btnOpenNewTab": {"message": "Abrir em novo separador"}
+}

@@ -1,0 +1,15 @@
+{
+  "appName": {"message": "WPlace Dark Theme"},
+  "appDescription": {"message": "Force localStorage.theme to 'dark' when enabled and 'custom-winter' when disabled, with a popup toggle."},
+  "actionDefaultTitle": {"message": "Toggle theme (dark/custom-winter)"},
+  "popupTitle": {"message": "WPlace Dark Theme"},
+  "popupState": {"message": "Status:"},
+  "popupOn": {"message": "On (dark)"},
+  "popupOff": {"message": "Off (custom-winter)"},
+  "popupHint": {"message": "Enabled: sets localStorage.theme = dark\nDisabled: sets to custom-winter"},
+  "modalTitle": {"message": "WPlace Dark Theme"},
+  "modalBodyOn": {"message": "Theme set to <b>dark</b>.<br>To apply correctly, close this tab and open the site in a <b>new tab</b>."},
+  "modalBodyOff": {"message": "Theme reverted to the <b>default</b>.<br>To apply correctly, close this tab and open the site in a <b>new tab</b>."},
+  "btnUnderstood": {"message": "Got it"},
+  "btnOpenNewTab": {"message": "Open in new tab"}
+}
